@@ -5,7 +5,7 @@ const Main = () => {
     <div >
         <div className='upper-part'>
         <div className='d-flex gap-2 pt-2' style={{color: "#C3C4C7"}}>
-            <div>Orders</div>
+            <div>Orders</div> {" "}
             <div>{'>'}</div>
             <div className='text-decoration-underline'>Order 32457ABC</div>
         </div>
